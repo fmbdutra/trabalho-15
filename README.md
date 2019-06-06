@@ -1,6 +1,6 @@
 # trabalho-15
 Faculdade de Tecnologia Senai Porto Alegre<br>
-Unidade Currícular S078 - Qualidade de Produto e Processo de Software<br>
+Unidade Curricular S078 - Qualidade de Produto e Processo de Software<br>
 Professor Marcelo Barbosa Soares
 <br><br>
 Trabalho realizando testes de sistemas com a ferramenta Selenium na linguagem Java.
